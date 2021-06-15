@@ -1,2 +1,7 @@
 we are going to predict contionuse values for target feature
-peformed eda, and created models using LightGBM, catboost , linear regression 
+
+steps:
+1) peformed eda univariant and multivarient analysis
+2) feature engineering 
+3) building models( lightgbm , catboost ,linear regression )
+4) training ,predicting and submitting 
